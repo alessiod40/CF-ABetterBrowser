@@ -41,7 +41,7 @@ CloudFlare.define( 'abetterbrowser', [ 'cloudflare/dom', 'cloudflare/user', 'abe
 			'ja': 'あなたは、時代遅れのブラウザを使用しています。<a href="' + moreInformationLink + '" target="_blank">詳細情報 &#187;</a>',
 			'fa': 'شما از مرورگری قدیمی استفاده می کنید. <a href="' + moreInformationLink + '" target="_blank">&#187;اطلاعات بیشتر</a>',
 			'tr': 'Çok eski bir tarayıcı kullanıyorsunuz. <a href="' + moreInformationLink + '" target="_blank">Daha fazla bilgi &#187;</a>'
-			'tr': 'Stai utilizzando un browser obsoleto. <a href="' + moreInformationLink + '" target="_blank">Più informazioni &#187;</a>'
+			'it': 'Stai utilizzando un browser obsoleto. <a href="' + moreInformationLink + '" target="_blank">Più informazioni &#187;</a>'
 		};
 		
 		/**
